@@ -15,6 +15,13 @@ Create apps with backends and modern frontends (SPA).
 
 ---
 
+```javascript
+const a = 'live', b = 'coding';
+console.log('w00t');
+```
+
+---
+
 ## Why Quarkus over NodeJS...
 
  - Ready to use stack with all the best libraries to build efficient services <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -49,8 +56,10 @@ Quinoa will add a Vert.x route to serve the generated web resources.
  
 - Same as prod, but re-building on changes.
 - Auto start the NodeJS dev server and proxy requests
+
 ---
 
 ```java
-System.out.println("Let's code!");
+- System.out.println("Let's code!");
++ System.out.println("Let's have some fun!");
 ```
